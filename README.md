@@ -10,4 +10,4 @@ HEAVEN code will allow you to create your own python programs in a convenient an
 
 ## Interface
 DEMO code editor interface:
-![An image is missing?](images/interface_1.png "This is how it looks on your computer!")
+![An image is missing?](images/interface_1.jpg "This is how it looks on your computer!")
